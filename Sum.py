@@ -1,0 +1,5 @@
+a=int(input("Enter first no\n"))
+b=int(input("Enter second no\n"))
+print("First number is", a)
+print("second number is", b)
+print("Their sum is", a+b)

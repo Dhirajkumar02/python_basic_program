@@ -1,0 +1,6 @@
+a=10
+b=20
+c=a+b
+print("a is "+a)
+print("b is "+b)
+print("Their sum is "+c)
